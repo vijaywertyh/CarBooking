@@ -54,5 +54,3 @@ mapbox://styles/hackbotone/ck8vt8vdj2fz91ilax6nwtins
 If you face any problem or have any suggestion on improving the code then feel free to raise an issue.
 
 
-### License
-This project is licensed under the [MIT License](LICENSE)
